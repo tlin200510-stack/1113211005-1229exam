@@ -1,0 +1,32 @@
+{
+  "name": "1113211005-1229exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlin200510-stack/1113211005-1229exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlin200510-stack/1113211005-1229exam/issues"
+  },
+  "homepage": "https://github.com/tlin200510-stack/1113211005-1229exam#readme",
+  "devDependencies": {
+    "sass": "^1.97.1",
+    "vite": "^7.3.0"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1"
+  }
+}
